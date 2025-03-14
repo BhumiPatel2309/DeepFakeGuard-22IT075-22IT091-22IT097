@@ -1,0 +1,15 @@
+Flask
+albumentations
+torch==2.0.1
+tqdm
+pandas==2.0.2
+efficientnet-pytorch
+scikit-learn
+Pillow==9.5.0
+scipy
+matplotlib==3.7.1
+numpy==1.24.3
+opencv-python==4.8.0.74
+streamlit==1.29.0
+python-dotenv==1.0.0
+twilio==8.10.0
