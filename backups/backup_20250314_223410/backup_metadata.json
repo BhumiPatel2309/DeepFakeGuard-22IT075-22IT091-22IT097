@@ -1,0 +1,24 @@
+{
+    "timestamp": "20250314_223410",
+    "note": "",
+    "databases": [
+        {
+            "file": "deepfake.db",
+            "size": 1159,
+            "hash": "3102f3ddc54bc1538f4fca0371bed816e91b63ced4fa156e710f6d7092b53180"
+        },
+        {
+            "file": "users.db",
+            "size": 770,
+            "hash": "25c387eced6ae311b07df3b66320d4e9e99b4e9c7a5c3099cfcd9c280f50705e"
+        }
+    ],
+    "directories": [
+        {
+            "directory": "uploads",
+            "files_count": 2,
+            "total_size": 56
+        }
+    ],
+    "version": "1.0"
+}

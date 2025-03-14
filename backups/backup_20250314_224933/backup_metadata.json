@@ -1,0 +1,251 @@
+{
+    "timestamp": "20250314_224933",
+    "note": "",
+    "stats": {
+        "total_files": 48,
+        "total_size": 709563,
+        "backed_up_items": [
+            {
+                "path": ".gitattributes",
+                "size": 2,
+                "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+            },
+            {
+                "path": "api.py",
+                "size": 1541,
+                "hash": "cdcaf0f56d29ae894ea09ad0a5379b3f1d4b5956d553f14233205e49ee58f5f2"
+            },
+            {
+                "path": "app.py",
+                "size": 1861,
+                "hash": "575a784a6c44947d7854830385e5470173786e34d40dace2a797ae2ed2e805e1"
+            },
+            {
+                "path": "config.py",
+                "size": 599,
+                "hash": "fcc27d488157bc47a3050a0112e8049f7bb29bc92c2972703fb3d0df364b8d13"
+            },
+            {
+                "path": "deepfake.db",
+                "size": 28672,
+                "hash": "6c8a9b2d14ca4060c5c3bd0f9c7942032724f8359eac664c670a64b5da570c7f"
+            },
+            {
+                "path": "deepfake.db.pre_restore_20250314_223852",
+                "size": 28672,
+                "hash": "af88f534c4ae93352cdf1091cae2061094748943be4ac481e584497224e386fb"
+            },
+            {
+                "path": "image.py",
+                "size": 2023,
+                "hash": "4949fb423074775cbba162a20dbcadf900b7ef1fce60ff267a784edc34c5f1e1"
+            },
+            {
+                "path": "image_format_conv.py",
+                "size": 1009,
+                "hash": "23ae7f7ed9b30bc0301962e6d9e81ced1afb73513a772bb785324e321e395a9e"
+            },
+            {
+                "path": "requirements.txt",
+                "size": 216,
+                "hash": "b064d0ab8bedd555328b6d66765facfaa875501823252f1329dd1c5f17fc9a7d"
+            },
+            {
+                "path": "tempCodeRunnerFile.py",
+                "size": 2840,
+                "hash": "2a9c0a8d541d74351f6e60c36e515e47ea5b5790e8f2eebd27a17b7e723b4090"
+            },
+            {
+                "path": "users.db",
+                "size": 770,
+                "hash": "25c387eced6ae311b07df3b66320d4e9e99b4e9c7a5c3099cfcd9c280f50705e"
+            },
+            {
+                "path": "users.db.pre_restore_20250314_223852",
+                "size": 24576,
+                "hash": "fb7bdfc2d44f2343ae9b59fa5d124b99b676d84f41af2cdd4d10635762c45ebc"
+            },
+            {
+                "path": "youtube.py",
+                "size": 2226,
+                "hash": "0726414c77c2a25d1a5a8ae36f0aedb0a85e0218ac765a2a7afbe9c333299160"
+            },
+            {
+                "path": ".streamlit\\config.toml",
+                "size": 405,
+                "hash": "c91dd73ce8a3e65d21fae6e6bd1fc69c118acbbcdb2db84d5b4305ef5630c90a"
+            },
+            {
+                "path": "architectures\\fornet.py",
+                "size": 7530,
+                "hash": "58175b00fefb9eb8c7070feaaf42c2b521795e503946d9e65dda500b71976630"
+            },
+            {
+                "path": "architectures\\tripletnet.py",
+                "size": 1207,
+                "hash": "4eb4ad84554ec28cd7a18c086e80e8c3ba1d145a1df69038904ad90c6cacc118"
+            },
+            {
+                "path": "architectures\\weights.py",
+                "size": 1944,
+                "hash": "ad08d1da09f446d43b8afa61d64a156590f810fd354147ecb4080714eea2d2d5"
+            },
+            {
+                "path": "architectures\\__init__.py",
+                "size": 0,
+                "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "path": "architectures\\externals\\xception.py",
+                "size": 8022,
+                "hash": "03f2fc6e662daff65ee0447c782248ab5cf2d12935b439c67b26586975a763b1"
+            },
+            {
+                "path": "architectures\\externals\\__init__.py",
+                "size": 32,
+                "hash": "7a7c9cfa9f814d44e85bfbafd5bbb0f33cad44f8d303fbdec6c023ace270de4f"
+            },
+            {
+                "path": "blazeface\\anchors.npy",
+                "size": 28800,
+                "hash": "a10bb2fb93ab54ca426d6c750bfc3aad685028a16dcf231357d03694f261fd95"
+            },
+            {
+                "path": "blazeface\\blazeface.pth",
+                "size": 420224,
+                "hash": "54ecff653feaaaf1f7d44b6aff28fd2fc50e483a4e847563b6dd261369c43ba4"
+            },
+            {
+                "path": "blazeface\\blazeface.py",
+                "size": 16491,
+                "hash": "767b2fd23e750be9536d04cfab896ea444f0438ef0e8c2c2ae4c1902668b7a83"
+            },
+            {
+                "path": "blazeface\\face_extract.py",
+                "size": 20794,
+                "hash": "981f814845f251948edd232d46f2f9da9639763010405c6d4b83eed09147a3ac"
+            },
+            {
+                "path": "blazeface\\read_video.py",
+                "size": 8571,
+                "hash": "8bafc39780e54a4cd27cf5f77d5e40cde18ece1980211ebf24e221d8adc4c0db"
+            },
+            {
+                "path": "blazeface\\__init__.py",
+                "size": 112,
+                "hash": "1f6cc6cbe018e7263f83ad952025f9cda3c9b7c69b1801f22211466aed0aee6d"
+            },
+            {
+                "path": "isplutils\\data.py",
+                "size": 10491,
+                "hash": "52b8c0d6f76a00f1344fcc67a6d0a93482d757d172a4f2ab2a969fe8baff8192"
+            },
+            {
+                "path": "isplutils\\data_siamese.py",
+                "size": 2697,
+                "hash": "10a0b46879b61190259e06f50108c02ff392969cb1b902faeebaf2777f1da801"
+            },
+            {
+                "path": "isplutils\\split.py",
+                "size": 5857,
+                "hash": "69deb041f447c92e396640959a3d5ed85cad9cecd3ad9542a01769658086b9e2"
+            },
+            {
+                "path": "isplutils\\utils.py",
+                "size": 9527,
+                "hash": "8e6818c47d760f4a727a5449a6dd7794ddeb68ff8b1a7ff97b464da937020d19"
+            },
+            {
+                "path": "isplutils\\__init__.py",
+                "size": 0,
+                "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "path": "src\\backup_manager.py",
+                "size": 11704,
+                "hash": "20b56779c8fe01b9d1f9aa20d390e77a0e77011f894f0c195f6b1e53ce4691da"
+            },
+            {
+                "path": "src\\__init__.py",
+                "size": 1,
+                "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+            },
+            {
+                "path": "src\\auth\\login.py",
+                "size": 4809,
+                "hash": "505e6b89b65b70bed1311bda2926b7288994c6dc16ac07365517cfce0fbe4a11"
+            },
+            {
+                "path": "src\\auth\\register.py",
+                "size": 6099,
+                "hash": "f93220c8ba848931496480315c3747193c7a7822d8fc1f6f5a3f0346796b96d5"
+            },
+            {
+                "path": "src\\auth\\__init__.py",
+                "size": 1,
+                "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+            },
+            {
+                "path": "src\\core\\__init__.py",
+                "size": 1,
+                "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+            },
+            {
+                "path": "src\\utils\\database.py",
+                "size": 8622,
+                "hash": "f30361713f3af98d3c00c749d99dfab4270cfdaff57bee76e2e572623fc9184c"
+            },
+            {
+                "path": "src\\utils\\logger.py",
+                "size": 1452,
+                "hash": "6f4ee0ff2c7197eb48bbb5b62f1598e9b03c08fe226f985befd307c08d8ab78e"
+            },
+            {
+                "path": "src\\utils\\utils.py",
+                "size": 1694,
+                "hash": "ad1d0eea593a263812184fff54348aca895ef49eda0a2de7a40c4537ff6ec527"
+            },
+            {
+                "path": "src\\utils\\__init__.py",
+                "size": 240,
+                "hash": "49643327faa4ba6eae62dc060e4c2b58c73e0d271260acb50036891cc38e987c"
+            },
+            {
+                "path": "src\\web\\dashboard.py",
+                "size": 18457,
+                "hash": "dd78a5aceb305261337627cd9456e5b1ef2793c98193eafd226635e4649b0c6a"
+            },
+            {
+                "path": "src\\web\\home.py",
+                "size": 4472,
+                "hash": "d5e7e73207f1b153c66242ee3038a383244de14fc547b5f24c54b612a108f0b6"
+            },
+            {
+                "path": "src\\web\\ui_components.py",
+                "size": 14188,
+                "hash": "2d3aca528d49a90e7680a84c9eed392461cc604ec73f0582950a81cd12b6611a"
+            },
+            {
+                "path": "uploads\\test1.txt",
+                "size": 28,
+                "hash": "2c272df293bb0902facbdec3d586862046483a6cf6bd93d4039494aabaffd7f5"
+            },
+            {
+                "path": "uploads\\test2.txt",
+                "size": 28,
+                "hash": "7a6d7fd4276bbc308ac39a083c87abddb0d9c0f573cf012866973852aed15caa"
+            },
+            {
+                "path": "uploads.pre_restore_20250314_223852\\test1.txt",
+                "size": 28,
+                "hash": "2c272df293bb0902facbdec3d586862046483a6cf6bd93d4039494aabaffd7f5"
+            },
+            {
+                "path": "uploads.pre_restore_20250314_223852\\test2.txt",
+                "size": 28,
+                "hash": "7a6d7fd4276bbc308ac39a083c87abddb0d9c0f573cf012866973852aed15caa"
+            }
+        ]
+    },
+    "version": "2.0"
+}

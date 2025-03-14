@@ -1,0 +1,766 @@
+2025-03-14 22:07:15,353 - INFO - Application startup
+2025-03-14 22:07:15,385 - INFO - User testuser accessing dashboard
+2025-03-14 22:07:15,415 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:09:07,526 - INFO - Initializing database
+2025-03-14 22:09:07,793 - INFO - Database initialization completed successfully
+2025-03-14 22:09:07,835 - INFO - Database initialized
+2025-03-14 22:09:07,872 - INFO - Application startup
+2025-03-14 22:09:07,912 - INFO - User testuser accessing dashboard
+2025-03-14 22:09:07,971 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:09:17,547 - INFO - Initializing database
+2025-03-14 22:09:17,582 - INFO - Database initialization completed successfully
+2025-03-14 22:09:17,616 - INFO - Application startup
+2025-03-14 22:09:17,668 - INFO - User testuser accessing dashboard
+2025-03-14 22:09:17,700 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:09:48,672 - INFO - Initializing database
+2025-03-14 22:09:48,721 - INFO - Database initialization completed successfully
+2025-03-14 22:09:48,815 - INFO - Application startup
+2025-03-14 22:09:48,989 - INFO - Rendering home page
+2025-03-14 22:09:49,052 - INFO - Rendering home page
+2025-03-14 22:09:52,764 - INFO - Initializing database
+2025-03-14 22:09:52,880 - INFO - Database initialization completed successfully
+2025-03-14 22:09:52,931 - INFO - Application startup
+2025-03-14 22:09:52,979 - INFO - Rendering home page
+2025-03-14 22:09:53,021 - INFO - Rendering home page
+2025-03-14 22:09:53,061 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:09:53,857 - INFO - Initializing database
+2025-03-14 22:09:53,987 - INFO - Database initialization completed successfully
+2025-03-14 22:09:54,041 - INFO - Application startup
+2025-03-14 22:09:54,068 - INFO - Initializing database
+2025-03-14 22:09:54,180 - INFO - Database initialization completed successfully
+2025-03-14 22:09:54,227 - INFO - Application startup
+2025-03-14 22:09:54,278 - INFO - Rendering login page
+2025-03-14 22:10:00,015 - INFO - Initializing database
+2025-03-14 22:10:00,093 - INFO - Database initialization completed successfully
+2025-03-14 22:10:00,156 - INFO - Application startup
+2025-03-14 22:10:00,209 - INFO - Rendering home page
+2025-03-14 22:10:00,260 - INFO - Rendering home page
+2025-03-14 22:10:02,297 - INFO - Initializing database
+2025-03-14 22:10:02,498 - INFO - Database initialization completed successfully
+2025-03-14 22:10:02,554 - INFO - Initializing database
+2025-03-14 22:10:02,689 - INFO - Database initialization completed successfully
+2025-03-14 22:10:02,738 - INFO - Application startup
+2025-03-14 22:10:02,789 - INFO - Rendering home page
+2025-03-14 22:10:02,829 - INFO - Rendering home page
+2025-03-14 22:10:02,878 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:10:05,672 - INFO - Initializing database
+2025-03-14 22:10:05,809 - INFO - Database initialization completed successfully
+2025-03-14 22:10:05,853 - INFO - Application startup
+2025-03-14 22:10:05,888 - INFO - Initializing database
+2025-03-14 22:10:06,005 - INFO - Database initialization completed successfully
+2025-03-14 22:10:06,069 - INFO - Application startup
+2025-03-14 22:10:06,106 - INFO - Rendering login page
+2025-03-14 22:10:34,753 - INFO - Initializing database
+2025-03-14 22:10:34,815 - INFO - Database initialization completed successfully
+2025-03-14 22:10:34,863 - INFO - Application startup
+2025-03-14 22:10:34,910 - INFO - Rendering login page
+2025-03-14 22:10:34,963 - INFO - Login attempt for user: testuser
+2025-03-14 22:10:35,026 - INFO - Successful login for user: testuser
+2025-03-14 22:10:35,073 - INFO - User testuser logged in successfully
+2025-03-14 22:10:35,162 - INFO - Initializing database
+2025-03-14 22:10:35,215 - INFO - Database initialization completed successfully
+2025-03-14 22:10:35,246 - INFO - Application startup
+2025-03-14 22:10:35,310 - INFO - User testuser accessing dashboard
+2025-03-14 22:10:35,357 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:12:37,644 - INFO - Initializing database
+2025-03-14 22:12:37,687 - INFO - Database initialization completed successfully
+2025-03-14 22:12:37,745 - INFO - Application startup
+2025-03-14 22:12:37,778 - INFO - User testuser accessing dashboard
+2025-03-14 22:12:37,810 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:13:11,773 - INFO - Initializing database
+2025-03-14 22:13:11,812 - INFO - Database initialization completed successfully
+2025-03-14 22:13:11,867 - INFO - Application startup
+2025-03-14 22:13:11,905 - INFO - User testuser accessing dashboard
+2025-03-14 22:13:11,941 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:17:56,162 - INFO - Initializing database
+2025-03-14 22:17:56,209 - INFO - Database initialization completed successfully
+2025-03-14 22:17:56,267 - INFO - Application startup
+2025-03-14 22:17:56,316 - INFO - Rendering home page
+2025-03-14 22:17:56,355 - INFO - Rendering home page
+2025-03-14 22:18:17,747 - INFO - Initializing database
+2025-03-14 22:18:17,860 - INFO - Database initialization completed successfully
+2025-03-14 22:18:17,899 - INFO - Application startup
+2025-03-14 22:18:17,935 - INFO - Rendering home page
+2025-03-14 22:18:17,965 - INFO - Rendering home page
+2025-03-14 22:18:17,999 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:18:18,898 - INFO - Initializing database
+2025-03-14 22:18:18,985 - INFO - Database initialization completed successfully
+2025-03-14 22:18:19,107 - INFO - Initializing database
+2025-03-14 22:18:19,196 - INFO - Database initialization completed successfully
+2025-03-14 22:18:19,224 - INFO - Application startup
+2025-03-14 22:18:19,260 - INFO - Rendering login page
+2025-03-14 22:18:26,114 - INFO - Initializing database
+2025-03-14 22:18:26,220 - INFO - Database initialization completed successfully
+2025-03-14 22:18:26,264 - INFO - Application startup
+2025-03-14 22:18:26,302 - INFO - Rendering login page
+2025-03-14 22:18:26,359 - INFO - Login attempt for user: testuser
+2025-03-14 22:18:26,409 - INFO - Successful login for user: testuser
+2025-03-14 22:18:26,460 - INFO - User testuser logged in successfully
+2025-03-14 22:18:26,565 - INFO - Initializing database
+2025-03-14 22:18:26,665 - INFO - Database initialization completed successfully
+2025-03-14 22:18:26,703 - INFO - Application startup
+2025-03-14 22:18:26,745 - INFO - User testuser accessing dashboard
+2025-03-14 22:18:26,788 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:19:23,493 - INFO - Initializing database
+2025-03-14 22:19:23,501 - INFO - Initializing database
+2025-03-14 22:19:23,582 - ERROR - Database initialization failed: no such column: is_admin
+2025-03-14 22:19:23,606 - ERROR - Database initialization failed: no such column: is_admin
+2025-03-14 22:19:53,073 - INFO - Initializing database
+2025-03-14 22:19:53,157 - INFO - Created default admin user
+2025-03-14 22:19:53,194 - INFO - Database initialization completed successfully
+2025-03-14 22:19:53,239 - INFO - Application startup
+2025-03-14 22:19:53,297 - INFO - Rendering home page
+2025-03-14 22:19:53,350 - INFO - Rendering home page
+2025-03-14 22:20:18,659 - INFO - Initializing database
+2025-03-14 22:20:18,761 - INFO - Database initialization completed successfully
+2025-03-14 22:20:18,812 - INFO - Application startup
+2025-03-14 22:20:18,858 - INFO - Rendering home page
+2025-03-14 22:20:18,901 - INFO - Rendering home page
+2025-03-14 22:20:18,947 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:20:19,505 - INFO - Initializing database
+2025-03-14 22:20:19,587 - INFO - Database initialization completed successfully
+2025-03-14 22:20:19,631 - INFO - Application startup
+2025-03-14 22:20:19,671 - INFO - Rendering login page
+2025-03-14 22:20:22,944 - INFO - Initializing database
+2025-03-14 22:20:23,094 - INFO - Initializing database
+2025-03-14 22:20:23,099 - INFO - Initializing database
+2025-03-14 22:20:23,211 - INFO - Database initialization completed successfully
+2025-03-14 22:20:23,243 - INFO - Database initialization completed successfully
+2025-03-14 22:20:23,254 - INFO - Database initialization completed successfully
+2025-03-14 22:20:23,348 - INFO - Application startup
+2025-03-14 22:20:23,387 - INFO - Application startup
+2025-03-14 22:20:23,475 - INFO - Application startup
+2025-03-14 22:20:23,711 - INFO - Rendering login page
+2025-03-14 22:20:23,741 - INFO - User testuser accessing dashboard
+2025-03-14 22:20:23,757 - INFO - User testuser accessing dashboard
+2025-03-14 22:20:23,900 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:20:23,914 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:20:37,692 - INFO - Initializing database
+2025-03-14 22:20:37,788 - INFO - Database initialization completed successfully
+2025-03-14 22:20:37,836 - INFO - Application startup
+2025-03-14 22:20:37,894 - INFO - Rendering login page
+2025-03-14 22:20:37,960 - INFO - Login attempt for user: admin
+2025-03-14 22:20:38,011 - INFO - Successful login for user: admin
+2025-03-14 22:20:38,071 - INFO - User admin logged in successfully
+2025-03-14 22:20:38,177 - INFO - Initializing database
+2025-03-14 22:20:38,235 - INFO - Database initialization completed successfully
+2025-03-14 22:20:38,283 - INFO - Application startup
+2025-03-14 22:20:38,331 - INFO - User admin accessing dashboard
+2025-03-14 22:20:38,380 - INFO - Loading dashboard for user: admin
+2025-03-14 22:21:42,230 - INFO - Initializing database
+2025-03-14 22:21:42,278 - INFO - Database initialization completed successfully
+2025-03-14 22:21:42,323 - INFO - Application startup
+2025-03-14 22:21:42,361 - INFO - Rendering home page
+2025-03-14 22:21:42,416 - INFO - Rendering home page
+2025-03-14 22:21:44,878 - INFO - Initializing database
+2025-03-14 22:21:44,957 - INFO - Database initialization completed successfully
+2025-03-14 22:21:44,994 - INFO - Application startup
+2025-03-14 22:21:45,032 - INFO - Rendering home page
+2025-03-14 22:21:45,067 - INFO - Rendering home page
+2025-03-14 22:21:45,103 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:21:51,572 - INFO - Initializing database
+2025-03-14 22:21:51,632 - INFO - Database initialization completed successfully
+2025-03-14 22:21:51,675 - INFO - Application startup
+2025-03-14 22:21:51,711 - INFO - Rendering login page
+2025-03-14 22:21:51,794 - INFO - Initializing database
+2025-03-14 22:21:51,845 - INFO - Database initialization completed successfully
+2025-03-14 22:21:52,068 - INFO - Application startup
+2025-03-14 22:21:52,109 - INFO - Rendering login page
+2025-03-14 22:22:01,541 - INFO - Initializing database
+2025-03-14 22:22:01,603 - INFO - Database initialization completed successfully
+2025-03-14 22:22:01,645 - INFO - Application startup
+2025-03-14 22:22:01,686 - INFO - Rendering login page
+2025-03-14 22:22:01,718 - INFO - Login attempt for user: admin
+2025-03-14 22:22:01,762 - INFO - Successful login for user: admin
+2025-03-14 22:22:01,793 - INFO - User admin logged in successfully
+2025-03-14 22:22:01,859 - INFO - Initializing database
+2025-03-14 22:22:01,932 - INFO - Database initialization completed successfully
+2025-03-14 22:22:01,970 - INFO - Application startup
+2025-03-14 22:22:02,007 - INFO - User admin accessing dashboard
+2025-03-14 22:22:02,040 - INFO - Loading dashboard for user: admin
+2025-03-14 22:22:30,316 - INFO - Initializing database
+2025-03-14 22:22:30,472 - INFO - Database initialization completed successfully
+2025-03-14 22:22:30,526 - INFO - Application startup
+2025-03-14 22:22:30,576 - INFO - Rendering home page
+2025-03-14 22:22:30,659 - INFO - Rendering home page
+2025-03-14 22:23:40,729 - INFO - Initializing database
+2025-03-14 22:23:40,772 - INFO - Database initialization completed successfully
+2025-03-14 22:23:40,809 - INFO - Application startup
+2025-03-14 22:23:40,850 - INFO - Rendering home page
+2025-03-14 22:23:40,921 - INFO - Rendering home page
+2025-03-14 22:24:06,792 - INFO - Initializing database
+2025-03-14 22:24:06,869 - INFO - Database initialization completed successfully
+2025-03-14 22:24:06,900 - INFO - Application startup
+2025-03-14 22:24:06,935 - INFO - Rendering home page
+2025-03-14 22:24:06,974 - INFO - Rendering home page
+2025-03-14 22:24:07,007 - INFO - Initializing database
+2025-03-14 22:24:07,090 - INFO - Database initialization completed successfully
+2025-03-14 22:24:07,126 - INFO - Application startup
+2025-03-14 22:24:07,167 - INFO - Rendering home page
+2025-03-14 22:24:07,199 - INFO - Rendering home page
+2025-03-14 22:24:07,231 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:24:09,802 - INFO - Initializing database
+2025-03-14 22:24:09,856 - INFO - Database initialization completed successfully
+2025-03-14 22:24:09,895 - INFO - Application startup
+2025-03-14 22:24:09,940 - INFO - Rendering login page
+2025-03-14 22:24:10,016 - INFO - Initializing database
+2025-03-14 22:24:10,071 - INFO - Database initialization completed successfully
+2025-03-14 22:24:10,212 - INFO - Application startup
+2025-03-14 22:24:10,261 - INFO - Rendering login page
+2025-03-14 22:24:26,196 - INFO - Initializing database
+2025-03-14 22:24:26,266 - INFO - Database initialization completed successfully
+2025-03-14 22:24:26,299 - INFO - Application startup
+2025-03-14 22:24:26,335 - INFO - Rendering login page
+2025-03-14 22:24:26,370 - INFO - Login attempt for user: testuser
+2025-03-14 22:24:26,412 - WARNING - Failed login attempt for user: testuser
+2025-03-14 22:24:26,443 - WARNING - Login failed for user testuser: Invalid credentials
+2025-03-14 22:24:35,786 - INFO - Initializing database
+2025-03-14 22:24:35,825 - INFO - Database initialization completed successfully
+2025-03-14 22:24:35,865 - INFO - Application startup
+2025-03-14 22:24:35,900 - INFO - Rendering login page
+2025-03-14 22:24:35,940 - INFO - Login attempt for user: testuser
+2025-03-14 22:24:35,977 - WARNING - Failed login attempt for user: testuser
+2025-03-14 22:24:36,007 - WARNING - Login failed for user testuser: Invalid credentials
+2025-03-14 22:24:45,375 - INFO - Initializing database
+2025-03-14 22:24:45,432 - INFO - Database initialization completed successfully
+2025-03-14 22:24:45,480 - INFO - Application startup
+2025-03-14 22:24:45,518 - INFO - Rendering home page
+2025-03-14 22:24:45,555 - INFO - Rendering home page
+2025-03-14 22:24:45,589 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:24:45,601 - INFO - Initializing database
+2025-03-14 22:24:45,736 - INFO - Database initialization completed successfully
+2025-03-14 22:24:45,776 - INFO - Application startup
+2025-03-14 22:24:45,819 - INFO - Rendering login page
+2025-03-14 22:24:51,421 - INFO - Initializing database
+2025-03-14 22:24:51,480 - INFO - Database initialization completed successfully
+2025-03-14 22:24:51,518 - INFO - Application startup
+2025-03-14 22:24:51,551 - INFO - Rendering login page
+2025-03-14 22:24:51,591 - INFO - Login attempt for user: testuser
+2025-03-14 22:24:51,633 - WARNING - Failed login attempt for user: testuser
+2025-03-14 22:24:51,664 - WARNING - Login failed for user testuser: Invalid credentials
+2025-03-14 22:24:56,143 - INFO - Initializing database
+2025-03-14 22:24:56,204 - INFO - Database initialization completed successfully
+2025-03-14 22:24:56,264 - INFO - Application startup
+2025-03-14 22:24:56,297 - INFO - Rendering login page
+2025-03-14 22:24:56,382 - INFO - Initializing database
+2025-03-14 22:24:56,388 - INFO - Initializing database
+2025-03-14 22:24:56,478 - INFO - Database initialization completed successfully
+2025-03-14 22:24:56,491 - INFO - Database initialization completed successfully
+2025-03-14 22:24:56,620 - INFO - Application startup
+2025-03-14 22:24:56,668 - INFO - Rendering register page
+2025-03-14 22:25:26,439 - INFO - Initializing database
+2025-03-14 22:25:26,498 - INFO - Database initialization completed successfully
+2025-03-14 22:25:26,540 - INFO - Application startup
+2025-03-14 22:25:26,584 - INFO - Rendering register page
+2025-03-14 22:25:26,625 - INFO - Attempting to register new user: test
+2025-03-14 22:25:26,677 - INFO - User registered successfully: test
+2025-03-14 22:25:26,714 - INFO - New user registered successfully: test
+2025-03-14 22:25:26,779 - INFO - Initializing database
+2025-03-14 22:25:26,829 - INFO - Database initialization completed successfully
+2025-03-14 22:25:26,877 - INFO - Application startup
+2025-03-14 22:25:26,914 - INFO - Rendering login page
+2025-03-14 22:26:09,252 - INFO - Initializing database
+2025-03-14 22:26:09,310 - INFO - Database initialization completed successfully
+2025-03-14 22:26:09,356 - INFO - Application startup
+2025-03-14 22:26:09,404 - INFO - Rendering login page
+2025-03-14 22:26:09,440 - INFO - Login attempt for user: test
+2025-03-14 22:26:09,475 - INFO - Successful login for user: test
+2025-03-14 22:26:09,511 - INFO - User test logged in successfully
+2025-03-14 22:26:09,580 - INFO - Initializing database
+2025-03-14 22:26:09,638 - INFO - Database initialization completed successfully
+2025-03-14 22:26:09,687 - INFO - Application startup
+2025-03-14 22:26:09,724 - INFO - User test accessing dashboard
+2025-03-14 22:26:09,759 - INFO - Loading dashboard for user: test
+2025-03-14 22:28:43,266 - INFO - Initializing database
+2025-03-14 22:28:43,343 - INFO - Database initialization completed successfully
+2025-03-14 22:28:43,385 - INFO - Application startup
+2025-03-14 22:28:43,445 - INFO - Rendering home page
+2025-03-14 22:28:43,581 - INFO - Rendering home page
+2025-03-14 22:28:45,175 - INFO - Initializing database
+2025-03-14 22:28:45,258 - INFO - Database initialization completed successfully
+2025-03-14 22:28:45,298 - INFO - Application startup
+2025-03-14 22:28:45,346 - INFO - Rendering home page
+2025-03-14 22:28:45,380 - INFO - Rendering home page
+2025-03-14 22:28:45,388 - INFO - Initializing database
+2025-03-14 22:28:45,544 - INFO - Database initialization completed successfully
+2025-03-14 22:28:45,587 - INFO - Application startup
+2025-03-14 22:28:45,631 - INFO - Rendering home page
+2025-03-14 22:28:45,668 - INFO - Rendering home page
+2025-03-14 22:28:45,700 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:28:47,639 - INFO - Initializing database
+2025-03-14 22:28:47,699 - INFO - Database initialization completed successfully
+2025-03-14 22:28:47,741 - INFO - Application startup
+2025-03-14 22:28:47,781 - INFO - Rendering login page
+2025-03-14 22:28:47,855 - INFO - Initializing database
+2025-03-14 22:28:47,970 - INFO - Database initialization completed successfully
+2025-03-14 22:28:48,002 - INFO - Application startup
+2025-03-14 22:28:48,033 - INFO - Rendering login page
+2025-03-14 22:28:53,946 - INFO - Initializing database
+2025-03-14 22:28:54,008 - INFO - Database initialization completed successfully
+2025-03-14 22:28:54,053 - INFO - Application startup
+2025-03-14 22:28:54,097 - INFO - Rendering login page
+2025-03-14 22:28:54,140 - INFO - Login attempt for user: admin
+2025-03-14 22:28:54,177 - INFO - Successful login for user: admin
+2025-03-14 22:28:54,214 - INFO - User admin logged in successfully
+2025-03-14 22:28:54,281 - INFO - Initializing database
+2025-03-14 22:28:54,336 - INFO - Database initialization completed successfully
+2025-03-14 22:28:54,382 - INFO - Application startup
+2025-03-14 22:28:54,422 - INFO - User admin accessing dashboard
+2025-03-14 22:28:54,458 - INFO - Loading dashboard for user: admin
+2025-03-14 22:29:02,964 - INFO - Initializing database
+2025-03-14 22:29:02,966 - INFO - Initializing database
+2025-03-14 22:29:02,973 - INFO - Initializing database
+2025-03-14 22:29:03,178 - INFO - Database initialization completed successfully
+2025-03-14 22:29:03,193 - INFO - Database initialization completed successfully
+2025-03-14 22:29:03,194 - INFO - Database initialization completed successfully
+2025-03-14 22:29:03,647 - INFO - Application startup
+2025-03-14 22:29:03,674 - INFO - Application startup
+2025-03-14 22:29:03,761 - INFO - Application startup
+2025-03-14 22:29:03,825 - INFO - User admin accessing dashboard
+2025-03-14 22:29:03,853 - INFO - User testuser accessing dashboard
+2025-03-14 22:29:03,897 - INFO - User testuser accessing dashboard
+2025-03-14 22:29:03,959 - INFO - Loading dashboard for user: admin
+2025-03-14 22:29:03,976 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:29:04,021 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:30:20,410 - INFO - Initializing database
+2025-03-14 22:30:20,410 - INFO - Initializing database
+2025-03-14 22:30:20,410 - INFO - Initializing database
+2025-03-14 22:30:20,410 - INFO - Initializing database
+2025-03-14 22:30:20,533 - INFO - Database initialization completed successfully
+2025-03-14 22:30:20,536 - INFO - Database initialization completed successfully
+2025-03-14 22:30:20,538 - INFO - Database initialization completed successfully
+2025-03-14 22:30:20,549 - INFO - Database initialization completed successfully
+2025-03-14 22:30:20,642 - INFO - Application startup
+2025-03-14 22:30:20,653 - INFO - Application startup
+2025-03-14 22:30:20,665 - INFO - Application startup
+2025-03-14 22:30:20,667 - INFO - Application startup
+2025-03-14 22:30:20,829 - INFO - User admin accessing dashboard
+2025-03-14 22:30:20,933 - INFO - User admin accessing dashboard
+2025-03-14 22:30:20,954 - INFO - User testuser accessing dashboard
+2025-03-14 22:30:20,968 - INFO - User testuser accessing dashboard
+2025-03-14 22:30:21,038 - INFO - Loading dashboard for user: admin
+2025-03-14 22:30:21,043 - INFO - Loading dashboard for user: admin
+2025-03-14 22:30:21,060 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:30:21,073 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:30:41,836 - INFO - Initializing database
+2025-03-14 22:30:41,896 - INFO - Database initialization completed successfully
+2025-03-14 22:30:41,948 - INFO - Application startup
+2025-03-14 22:30:41,998 - INFO - Rendering home page
+2025-03-14 22:30:42,092 - INFO - Rendering home page
+2025-03-14 22:30:43,929 - INFO - Initializing database
+2025-03-14 22:30:43,995 - INFO - Database initialization completed successfully
+2025-03-14 22:30:44,037 - INFO - Application startup
+2025-03-14 22:30:44,081 - INFO - Rendering home page
+2025-03-14 22:30:44,118 - INFO - Rendering home page
+2025-03-14 22:30:44,128 - INFO - Initializing database
+2025-03-14 22:30:44,275 - INFO - Database initialization completed successfully
+2025-03-14 22:30:44,329 - INFO - Application startup
+2025-03-14 22:30:44,368 - INFO - Rendering home page
+2025-03-14 22:30:44,401 - INFO - Rendering home page
+2025-03-14 22:30:44,435 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:30:46,917 - INFO - Initializing database
+2025-03-14 22:30:46,985 - INFO - Database initialization completed successfully
+2025-03-14 22:30:47,029 - INFO - Application startup
+2025-03-14 22:30:47,069 - INFO - Rendering login page
+2025-03-14 22:30:52,747 - INFO - Initializing database
+2025-03-14 22:30:52,848 - INFO - Database initialization completed successfully
+2025-03-14 22:30:52,893 - INFO - Application startup
+2025-03-14 22:30:52,928 - INFO - Rendering login page
+2025-03-14 22:30:52,964 - INFO - Login attempt for user: admin
+2025-03-14 22:30:53,010 - INFO - Successful login for user: admin
+2025-03-14 22:30:53,042 - INFO - User admin logged in successfully
+2025-03-14 22:30:53,109 - INFO - Initializing database
+2025-03-14 22:30:53,167 - INFO - Database initialization completed successfully
+2025-03-14 22:30:53,222 - INFO - Application startup
+2025-03-14 22:30:53,259 - INFO - User admin accessing dashboard
+2025-03-14 22:30:53,292 - INFO - Loading dashboard for user: admin
+2025-03-14 22:31:03,456 - INFO - Initializing database
+2025-03-14 22:31:03,546 - INFO - Database initialization completed successfully
+2025-03-14 22:31:03,603 - INFO - Application startup
+2025-03-14 22:31:03,759 - INFO - User admin accessing dashboard
+2025-03-14 22:31:03,795 - INFO - Loading dashboard for user: admin
+2025-03-14 22:31:22,226 - INFO - Initializing database
+2025-03-14 22:31:22,256 - INFO - Initializing database
+2025-03-14 22:31:22,468 - INFO - Database initialization completed successfully
+2025-03-14 22:31:22,472 - INFO - Database initialization completed successfully
+2025-03-14 22:31:22,610 - INFO - Application startup
+2025-03-14 22:31:22,740 - INFO - User testuser accessing dashboard
+2025-03-14 22:31:22,812 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:31:37,775 - INFO - Initializing database
+2025-03-14 22:31:37,849 - INFO - Database initialization completed successfully
+2025-03-14 22:31:37,905 - INFO - Application startup
+2025-03-14 22:31:37,987 - INFO - Rendering home page
+2025-03-14 22:31:38,049 - INFO - Rendering home page
+2025-03-14 22:31:40,006 - INFO - Initializing database
+2025-03-14 22:31:40,088 - INFO - Database initialization completed successfully
+2025-03-14 22:31:40,129 - INFO - Application startup
+2025-03-14 22:31:40,166 - INFO - Rendering home page
+2025-03-14 22:31:40,202 - INFO - Rendering home page
+2025-03-14 22:31:40,363 - INFO - Initializing database
+2025-03-14 22:31:40,433 - INFO - Database initialization completed successfully
+2025-03-14 22:31:40,475 - INFO - Application startup
+2025-03-14 22:31:40,523 - INFO - Rendering home page
+2025-03-14 22:31:40,570 - INFO - Rendering home page
+2025-03-14 22:31:40,625 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:31:42,054 - INFO - Initializing database
+2025-03-14 22:31:42,108 - INFO - Database initialization completed successfully
+2025-03-14 22:31:42,152 - INFO - Application startup
+2025-03-14 22:31:42,191 - INFO - Rendering login page
+2025-03-14 22:31:42,284 - INFO - Initializing database
+2025-03-14 22:31:42,351 - INFO - Database initialization completed successfully
+2025-03-14 22:31:42,454 - INFO - Application startup
+2025-03-14 22:31:42,526 - INFO - Rendering login page
+2025-03-14 22:31:50,734 - INFO - Initializing database
+2025-03-14 22:31:50,807 - INFO - Database initialization completed successfully
+2025-03-14 22:31:50,850 - INFO - Application startup
+2025-03-14 22:31:50,886 - INFO - Rendering login page
+2025-03-14 22:31:50,935 - INFO - Login attempt for user: admin
+2025-03-14 22:31:50,976 - INFO - Successful login for user: admin
+2025-03-14 22:31:51,015 - INFO - User admin logged in successfully
+2025-03-14 22:31:51,098 - INFO - Initializing database
+2025-03-14 22:31:51,185 - INFO - Database initialization completed successfully
+2025-03-14 22:31:51,375 - INFO - Application startup
+2025-03-14 22:31:51,442 - INFO - User admin accessing dashboard
+2025-03-14 22:31:51,512 - INFO - Loading dashboard for user: admin
+2025-03-14 22:31:56,217 - INFO - Initializing database
+2025-03-14 22:31:56,218 - INFO - Initializing database
+2025-03-14 22:31:56,219 - INFO - Initializing database
+2025-03-14 22:31:56,444 - INFO - Database initialization completed successfully
+2025-03-14 22:31:56,444 - INFO - Database initialization completed successfully
+2025-03-14 22:31:56,447 - INFO - Database initialization completed successfully
+2025-03-14 22:31:56,578 - INFO - Application startup
+2025-03-14 22:31:56,597 - INFO - Application startup
+2025-03-14 22:31:56,729 - INFO - User testuser accessing dashboard
+2025-03-14 22:31:56,745 - INFO - User admin accessing dashboard
+2025-03-14 22:31:56,838 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:31:56,845 - INFO - Loading dashboard for user: admin
+2025-03-14 22:31:57,194 - INFO - Initializing database
+2025-03-14 22:31:57,468 - INFO - Database initialization completed successfully
+2025-03-14 22:31:57,570 - INFO - Application startup
+2025-03-14 22:31:57,621 - INFO - User admin accessing dashboard
+2025-03-14 22:31:57,670 - INFO - Loading dashboard for user: admin
+2025-03-14 22:32:38,539 - INFO - Initializing database
+2025-03-14 22:32:38,551 - INFO - Initializing database
+2025-03-14 22:32:38,552 - INFO - Initializing database
+2025-03-14 22:32:38,551 - INFO - Initializing database
+2025-03-14 22:32:38,735 - INFO - Database initialization completed successfully
+2025-03-14 22:32:38,746 - INFO - Database initialization completed successfully
+2025-03-14 22:32:38,797 - INFO - Database initialization completed successfully
+2025-03-14 22:32:38,802 - INFO - Database initialization completed successfully
+2025-03-14 22:32:39,259 - INFO - Application startup
+2025-03-14 22:32:39,259 - INFO - Application startup
+2025-03-14 22:32:39,278 - INFO - Application startup
+2025-03-14 22:32:39,427 - INFO - User testuser accessing dashboard
+2025-03-14 22:32:39,441 - INFO - User admin accessing dashboard
+2025-03-14 22:32:39,461 - INFO - User admin accessing dashboard
+2025-03-14 22:32:39,554 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:32:39,574 - INFO - Loading dashboard for user: admin
+2025-03-14 22:32:39,577 - INFO - Loading dashboard for user: admin
+2025-03-14 22:33:35,475 - INFO - Initializing database
+2025-03-14 22:33:35,538 - INFO - Database initialization completed successfully
+2025-03-14 22:33:35,585 - INFO - Application startup
+2025-03-14 22:33:35,678 - INFO - Rendering home page
+2025-03-14 22:33:35,790 - INFO - Rendering home page
+2025-03-14 22:33:43,867 - INFO - Initializing database
+2025-03-14 22:33:43,963 - INFO - Database initialization completed successfully
+2025-03-14 22:33:44,011 - INFO - Application startup
+2025-03-14 22:33:44,066 - INFO - Rendering home page
+2025-03-14 22:33:44,080 - INFO - Initializing database
+2025-03-14 22:33:44,176 - INFO - Rendering home page
+2025-03-14 22:33:44,186 - INFO - Database initialization completed successfully
+2025-03-14 22:33:44,366 - INFO - Application startup
+2025-03-14 22:33:44,403 - INFO - Rendering home page
+2025-03-14 22:33:44,462 - INFO - Rendering home page
+2025-03-14 22:33:44,514 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:33:47,507 - INFO - Initializing database
+2025-03-14 22:33:47,584 - INFO - Database initialization completed successfully
+2025-03-14 22:33:47,631 - INFO - Application startup
+2025-03-14 22:33:47,680 - INFO - Rendering login page
+2025-03-14 22:33:47,728 - INFO - Initializing database
+2025-03-14 22:33:47,825 - INFO - Database initialization completed successfully
+2025-03-14 22:33:47,872 - INFO - Application startup
+2025-03-14 22:33:47,923 - INFO - Rendering login page
+2025-03-14 22:33:53,835 - INFO - Initializing database
+2025-03-14 22:33:53,910 - INFO - Database initialization completed successfully
+2025-03-14 22:33:53,961 - INFO - Application startup
+2025-03-14 22:33:54,004 - INFO - Rendering login page
+2025-03-14 22:33:54,042 - INFO - Login attempt for user: admin
+2025-03-14 22:33:54,091 - INFO - Successful login for user: admin
+2025-03-14 22:33:54,126 - INFO - User admin logged in successfully
+2025-03-14 22:33:54,202 - INFO - Initializing database
+2025-03-14 22:33:54,274 - INFO - Database initialization completed successfully
+2025-03-14 22:33:54,324 - INFO - Application startup
+2025-03-14 22:33:54,447 - INFO - User admin accessing dashboard
+2025-03-14 22:33:54,489 - INFO - Loading dashboard for user: admin
+2025-03-14 22:33:57,662 - INFO - Initializing database
+2025-03-14 22:33:57,735 - INFO - Database initialization completed successfully
+2025-03-14 22:33:57,803 - INFO - Application startup
+2025-03-14 22:33:57,848 - INFO - User admin accessing dashboard
+2025-03-14 22:33:57,881 - INFO - Initializing database
+2025-03-14 22:33:57,983 - INFO - Database initialization completed successfully
+2025-03-14 22:33:58,024 - INFO - Application startup
+2025-03-14 22:33:58,067 - INFO - User admin accessing dashboard
+2025-03-14 22:33:58,103 - INFO - Loading dashboard for user: admin
+2025-03-14 22:34:09,679 - INFO - Initializing database
+2025-03-14 22:34:09,788 - INFO - Database initialization completed successfully
+2025-03-14 22:34:09,840 - INFO - Application startup
+2025-03-14 22:34:09,888 - INFO - User admin accessing dashboard
+2025-03-14 22:34:09,927 - INFO - Loading dashboard for user: admin
+2025-03-14 22:34:10,065 - INFO - Backup created successfully at backups\backup_20250314_223410
+2025-03-14 22:35:03,673 - INFO - Initializing database
+2025-03-14 22:35:03,673 - INFO - Initializing database
+2025-03-14 22:35:03,673 - INFO - Initializing database
+2025-03-14 22:35:03,674 - INFO - Initializing database
+2025-03-14 22:35:04,084 - INFO - Database initialization completed successfully
+2025-03-14 22:35:04,119 - INFO - Database initialization completed successfully
+2025-03-14 22:35:04,137 - INFO - Database initialization completed successfully
+2025-03-14 22:35:04,154 - INFO - Database initialization completed successfully
+2025-03-14 22:35:04,378 - INFO - Application startup
+2025-03-14 22:35:04,389 - INFO - Application startup
+2025-03-14 22:35:04,421 - INFO - Application startup
+2025-03-14 22:35:04,607 - INFO - User admin accessing dashboard
+2025-03-14 22:35:04,623 - INFO - User admin accessing dashboard
+2025-03-14 22:35:04,648 - INFO - User testuser accessing dashboard
+2025-03-14 22:35:04,769 - INFO - Loading dashboard for user: admin
+2025-03-14 22:35:04,795 - INFO - Loading dashboard for user: admin
+2025-03-14 22:35:04,808 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:36:00,338 - INFO - Initializing database
+2025-03-14 22:36:00,403 - INFO - Database initialization completed successfully
+2025-03-14 22:36:00,455 - INFO - Application startup
+2025-03-14 22:36:00,558 - INFO - Rendering home page
+2025-03-14 22:36:00,637 - INFO - Rendering home page
+2025-03-14 22:36:09,255 - INFO - Initializing database
+2025-03-14 22:36:09,317 - INFO - Database initialization completed successfully
+2025-03-14 22:36:09,356 - INFO - Application startup
+2025-03-14 22:36:09,501 - INFO - Initializing database
+2025-03-14 22:36:09,640 - INFO - Database initialization completed successfully
+2025-03-14 22:36:09,690 - INFO - Application startup
+2025-03-14 22:36:09,739 - INFO - Rendering home page
+2025-03-14 22:36:09,796 - INFO - Rendering home page
+2025-03-14 22:36:09,860 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:36:11,252 - INFO - Initializing database
+2025-03-14 22:36:11,322 - INFO - Database initialization completed successfully
+2025-03-14 22:36:11,382 - INFO - Application startup
+2025-03-14 22:36:11,426 - INFO - Rendering login page
+2025-03-14 22:36:11,473 - INFO - Initializing database
+2025-03-14 22:36:11,594 - INFO - Database initialization completed successfully
+2025-03-14 22:36:11,643 - INFO - Application startup
+2025-03-14 22:36:11,695 - INFO - Rendering login page
+2025-03-14 22:36:15,259 - INFO - Initializing database
+2025-03-14 22:36:15,340 - INFO - Database initialization completed successfully
+2025-03-14 22:36:15,397 - INFO - Application startup
+2025-03-14 22:36:15,443 - INFO - Rendering login page
+2025-03-14 22:36:15,489 - INFO - Initializing database
+2025-03-14 22:36:15,571 - INFO - Database initialization completed successfully
+2025-03-14 22:36:15,610 - INFO - Application startup
+2025-03-14 22:36:15,722 - INFO - Rendering login page
+2025-03-14 22:36:15,816 - INFO - Initializing database
+2025-03-14 22:36:15,885 - INFO - Database initialization completed successfully
+2025-03-14 22:36:15,928 - INFO - Application startup
+2025-03-14 22:36:15,976 - INFO - Rendering register page
+2025-03-14 22:36:20,501 - INFO - Initializing database
+2025-03-14 22:36:20,584 - INFO - Database initialization completed successfully
+2025-03-14 22:36:20,630 - INFO - Application startup
+2025-03-14 22:36:20,674 - INFO - Rendering register page
+2025-03-14 22:36:20,765 - INFO - Initializing database
+2025-03-14 22:36:20,766 - INFO - Initializing database
+2025-03-14 22:36:20,847 - INFO - Database initialization completed successfully
+2025-03-14 22:36:20,852 - INFO - Database initialization completed successfully
+2025-03-14 22:36:20,935 - INFO - Application startup
+2025-03-14 22:36:20,983 - INFO - Rendering login page
+2025-03-14 22:36:31,518 - INFO - Initializing database
+2025-03-14 22:36:31,585 - INFO - Database initialization completed successfully
+2025-03-14 22:36:31,633 - INFO - Application startup
+2025-03-14 22:36:31,677 - INFO - Rendering login page
+2025-03-14 22:36:31,716 - INFO - Login attempt for user: admin
+2025-03-14 22:36:31,764 - INFO - Successful login for user: admin
+2025-03-14 22:36:31,801 - INFO - User admin logged in successfully
+2025-03-14 22:36:31,894 - INFO - Initializing database
+2025-03-14 22:36:31,980 - INFO - Database initialization completed successfully
+2025-03-14 22:36:32,021 - INFO - Application startup
+2025-03-14 22:36:32,124 - INFO - User admin accessing dashboard
+2025-03-14 22:36:32,185 - INFO - Loading dashboard for user: admin
+2025-03-14 22:36:36,429 - INFO - Initializing database
+2025-03-14 22:36:36,514 - INFO - Database initialization completed successfully
+2025-03-14 22:36:36,564 - INFO - Application startup
+2025-03-14 22:36:36,605 - INFO - User admin accessing dashboard
+2025-03-14 22:36:36,643 - INFO - Loading dashboard for user: admin
+2025-03-14 22:37:19,821 - INFO - Initializing database
+2025-03-14 22:37:19,906 - INFO - Initializing database
+2025-03-14 22:37:20,004 - INFO - Initializing database
+2025-03-14 22:37:20,145 - INFO - Initializing database
+2025-03-14 22:37:20,152 - INFO - Initializing database
+2025-03-14 22:37:20,170 - INFO - Database initialization completed successfully
+2025-03-14 22:37:20,216 - INFO - Database initialization completed successfully
+2025-03-14 22:37:20,271 - INFO - Database initialization completed successfully
+2025-03-14 22:37:20,440 - INFO - Database initialization completed successfully
+2025-03-14 22:37:20,449 - INFO - Database initialization completed successfully
+2025-03-14 22:37:20,865 - INFO - Application startup
+2025-03-14 22:37:21,044 - INFO - User testuser accessing dashboard
+2025-03-14 22:37:21,150 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:38:14,324 - INFO - Initializing database
+2025-03-14 22:38:14,324 - INFO - Initializing database
+2025-03-14 22:38:14,324 - INFO - Initializing database
+2025-03-14 22:38:14,324 - INFO - Initializing database
+2025-03-14 22:38:14,324 - INFO - Initializing database
+2025-03-14 22:38:14,540 - INFO - Database initialization completed successfully
+2025-03-14 22:38:14,550 - INFO - Database initialization completed successfully
+2025-03-14 22:38:14,557 - INFO - Database initialization completed successfully
+2025-03-14 22:38:14,563 - INFO - Database initialization completed successfully
+2025-03-14 22:38:14,573 - INFO - Database initialization completed successfully
+2025-03-14 22:38:14,795 - INFO - Application startup
+2025-03-14 22:38:14,817 - INFO - Application startup
+2025-03-14 22:38:14,820 - INFO - Application startup
+2025-03-14 22:38:14,830 - INFO - Application startup
+2025-03-14 22:38:14,832 - INFO - Application startup
+2025-03-14 22:38:15,033 - INFO - User admin accessing dashboard
+2025-03-14 22:38:15,045 - INFO - User admin accessing dashboard
+2025-03-14 22:38:15,057 - INFO - User admin accessing dashboard
+2025-03-14 22:38:15,061 - INFO - User admin accessing dashboard
+2025-03-14 22:38:15,078 - INFO - User testuser accessing dashboard
+2025-03-14 22:38:15,385 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:15,427 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:15,431 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:15,447 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:15,455 - INFO - Loading dashboard for user: testuser
+2025-03-14 22:38:30,806 - INFO - Initializing database
+2025-03-14 22:38:30,881 - INFO - Database initialization completed successfully
+2025-03-14 22:38:30,941 - INFO - Application startup
+2025-03-14 22:38:31,016 - INFO - User admin accessing dashboard
+2025-03-14 22:38:31,109 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:34,705 - INFO - Initializing database
+2025-03-14 22:38:34,766 - INFO - Database initialization completed successfully
+2025-03-14 22:38:34,837 - INFO - Application startup
+2025-03-14 22:38:34,917 - INFO - User admin accessing dashboard
+2025-03-14 22:38:34,975 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:36,081 - INFO - Initializing database
+2025-03-14 22:38:36,146 - INFO - Database initialization completed successfully
+2025-03-14 22:38:36,214 - INFO - Application startup
+2025-03-14 22:38:36,359 - INFO - Initializing database
+2025-03-14 22:38:36,489 - INFO - Database initialization completed successfully
+2025-03-14 22:38:36,528 - INFO - Application startup
+2025-03-14 22:38:36,579 - INFO - User admin accessing dashboard
+2025-03-14 22:38:36,629 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:48,898 - INFO - Initializing database
+2025-03-14 22:38:48,961 - INFO - Database initialization completed successfully
+2025-03-14 22:38:49,033 - INFO - Application startup
+2025-03-14 22:38:49,116 - INFO - Initializing database
+2025-03-14 22:38:49,233 - INFO - Database initialization completed successfully
+2025-03-14 22:38:49,276 - INFO - Application startup
+2025-03-14 22:38:49,325 - INFO - User admin accessing dashboard
+2025-03-14 22:38:49,374 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:52,439 - INFO - Initializing database
+2025-03-14 22:38:52,506 - INFO - Database initialization completed successfully
+2025-03-14 22:38:52,571 - INFO - Application startup
+2025-03-14 22:38:52,655 - INFO - User admin accessing dashboard
+2025-03-14 22:38:52,714 - INFO - Loading dashboard for user: admin
+2025-03-14 22:38:52,829 - INFO - Restore completed successfully from backups\backup_20250314_223410
+2025-03-14 22:41:37,145 - INFO - Initializing database
+2025-03-14 22:41:37,616 - ERROR - Database initialization failed: file is not a database
+2025-03-14 22:42:06,959 - INFO - Initializing database
+2025-03-14 22:42:07,143 - ERROR - Database initialization failed: file is not a database
+2025-03-14 22:42:26,129 - INFO - Initializing database
+2025-03-14 22:42:26,241 - ERROR - Database initialization failed: file is not a database
+2025-03-14 22:42:53,371 - INFO - Initializing database
+2025-03-14 22:42:53,471 - ERROR - Database initialization failed: file is not a database
+2025-03-14 22:44:52,347 - INFO - Initializing database
+2025-03-14 22:44:52,347 - INFO - Initializing database
+2025-03-14 22:44:52,562 - INFO - Created default admin user
+2025-03-14 22:44:52,728 - INFO - Database initialization completed successfully
+2025-03-14 22:44:52,743 - ERROR - Database error: UNIQUE constraint failed: users.email
+2025-03-14 22:44:52,963 - INFO - Application startup
+2025-03-14 22:44:53,188 - INFO - Rendering home page
+2025-03-14 22:44:53,447 - INFO - Rendering home page
+2025-03-14 22:48:47,725 - INFO - Initializing database
+2025-03-14 22:48:47,725 - INFO - Initializing database
+2025-03-14 22:48:47,853 - INFO - Admin user already exists
+2025-03-14 22:48:47,854 - INFO - Admin user already exists
+2025-03-14 22:48:47,952 - INFO - Database initialization completed successfully
+2025-03-14 22:48:47,966 - INFO - Database initialization completed successfully
+2025-03-14 22:48:48,068 - INFO - Application startup
+2025-03-14 22:48:48,133 - INFO - Application startup
+2025-03-14 22:48:48,317 - INFO - Rendering home page
+2025-03-14 22:48:48,365 - INFO - User admin accessing dashboard
+2025-03-14 22:48:48,451 - INFO - Rendering home page
+2025-03-14 22:48:48,464 - INFO - Loading dashboard for user: admin
+2025-03-14 22:49:09,716 - INFO - Initializing database
+2025-03-14 22:49:09,935 - INFO - Created default admin user
+2025-03-14 22:49:10,013 - INFO - Database initialization completed successfully
+2025-03-14 22:49:10,105 - INFO - Application startup
+2025-03-14 22:49:10,189 - INFO - Rendering home page
+2025-03-14 22:49:10,439 - INFO - Rendering home page
+2025-03-14 22:49:12,683 - INFO - Initializing database
+2025-03-14 22:49:12,810 - INFO - Admin user already exists
+2025-03-14 22:49:12,869 - INFO - Database initialization completed successfully
+2025-03-14 22:49:12,896 - INFO - Initializing database
+2025-03-14 22:49:13,052 - INFO - Admin user already exists
+2025-03-14 22:49:13,115 - INFO - Database initialization completed successfully
+2025-03-14 22:49:13,179 - INFO - Application startup
+2025-03-14 22:49:13,265 - INFO - Rendering home page
+2025-03-14 22:49:13,364 - INFO - Rendering home page
+2025-03-14 22:49:13,462 - INFO - User clicked login button, redirecting to login page
+2025-03-14 22:49:14,874 - INFO - Initializing database
+2025-03-14 22:49:14,948 - INFO - Admin user already exists
+2025-03-14 22:49:15,002 - INFO - Database initialization completed successfully
+2025-03-14 22:49:15,165 - INFO - Initializing database
+2025-03-14 22:49:15,227 - INFO - Admin user already exists
+2025-03-14 22:49:15,276 - INFO - Database initialization completed successfully
+2025-03-14 22:49:15,333 - INFO - Application startup
+2025-03-14 22:49:15,393 - INFO - Rendering login page
+2025-03-14 22:49:21,465 - INFO - Initializing database
+2025-03-14 22:49:21,562 - INFO - Admin user already exists
+2025-03-14 22:49:21,629 - INFO - Database initialization completed successfully
+2025-03-14 22:49:21,695 - INFO - Application startup
+2025-03-14 22:49:21,754 - INFO - Rendering login page
+2025-03-14 22:49:21,812 - INFO - Login attempt for user: admin
+2025-03-14 22:49:21,875 - INFO - Successful login for user: admin
+2025-03-14 22:49:21,946 - INFO - User admin logged in successfully
+2025-03-14 22:49:22,081 - INFO - Initializing database
+2025-03-14 22:49:22,169 - INFO - Admin user already exists
+2025-03-14 22:49:22,221 - INFO - Database initialization completed successfully
+2025-03-14 22:49:22,275 - INFO - Application startup
+2025-03-14 22:49:22,392 - INFO - User admin accessing dashboard
+2025-03-14 22:49:22,509 - INFO - Loading dashboard for user: admin
+2025-03-14 22:49:26,247 - INFO - Initializing database
+2025-03-14 22:49:26,349 - INFO - Admin user already exists
+2025-03-14 22:49:26,404 - INFO - Database initialization completed successfully
+2025-03-14 22:49:26,456 - INFO - Application startup
+2025-03-14 22:49:26,517 - INFO - User admin accessing dashboard
+2025-03-14 22:49:26,571 - INFO - Loading dashboard for user: admin
+2025-03-14 22:49:33,205 - INFO - Initializing database
+2025-03-14 22:49:33,310 - INFO - Admin user already exists
+2025-03-14 22:49:33,393 - INFO - Database initialization completed successfully
+2025-03-14 22:49:33,444 - INFO - Application startup
+2025-03-14 22:49:33,505 - INFO - User admin accessing dashboard
+2025-03-14 22:49:33,566 - INFO - Loading dashboard for user: admin
+2025-03-14 22:49:33,771 - ERROR - Database backup failed: file is not a database
+2025-03-14 22:49:34,146 - INFO - Full application backup created successfully at backups\backup_20250314_224933
+2025-03-14 22:49:57,189 - INFO - Initializing database
+2025-03-14 22:49:57,425 - INFO - Admin user already exists
+2025-03-14 22:49:57,479 - INFO - Database initialization completed successfully
+2025-03-14 22:49:57,533 - INFO - Application startup
+2025-03-14 22:49:57,599 - INFO - User admin accessing dashboard
+2025-03-14 22:49:57,663 - INFO - Loading dashboard for user: admin
+2025-03-14 22:49:57,722 - INFO - User admin logged out
+2025-03-14 22:49:58,676 - INFO - Initializing database
+2025-03-14 22:49:58,786 - INFO - Admin user already exists
+2025-03-14 22:49:58,870 - INFO - Database initialization completed successfully
+2025-03-14 22:49:58,885 - INFO - Initializing database
+2025-03-14 22:49:59,019 - INFO - Admin user already exists
+2025-03-14 22:49:59,071 - INFO - Database initialization completed successfully
+2025-03-14 22:49:59,126 - INFO - Application startup
+2025-03-14 22:49:59,192 - INFO - Rendering login page
+2025-03-14 22:50:01,534 - INFO - Initializing database
+2025-03-14 22:50:01,615 - INFO - Admin user already exists
+2025-03-14 22:50:01,752 - INFO - Initializing database
+2025-03-14 22:50:01,782 - INFO - Database initialization completed successfully
+2025-03-14 22:50:01,850 - INFO - Admin user already exists
+2025-03-14 22:50:01,952 - INFO - Database initialization completed successfully
+2025-03-14 22:50:02,007 - INFO - Application startup
+2025-03-14 22:50:02,067 - INFO - Rendering login page
+2025-03-14 22:50:02,185 - INFO - Initializing database
+2025-03-14 22:50:02,303 - INFO - Admin user already exists
+2025-03-14 22:50:02,363 - INFO - Database initialization completed successfully
+2025-03-14 22:50:02,422 - INFO - Application startup
+2025-03-14 22:50:02,486 - INFO - Rendering home page
+2025-03-14 22:50:02,552 - INFO - Rendering home page
