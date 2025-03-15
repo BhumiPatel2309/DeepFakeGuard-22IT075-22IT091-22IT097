@@ -1,3 +1,5 @@
 venv
 .venv
 .env
+google_auth.py
+oauth_config.py
