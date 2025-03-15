@@ -3,7 +3,7 @@ import sys
 import streamlit as st
 from src.utils.database import register_user
 from src.utils.logger import logger
-from src.utils.utils import is_valid_email, is_valid_phone
+from src.utils.utils import is_valid_email, is_valid_phone, is_valid_username, is_valid_password
 
 # Add the project root directory to Python path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
@@ -101,21 +101,24 @@ def register_page():
             
             if submit_button:
                 if username and email and password and confirm_password:
-                    if password != confirm_password:
-                        logger.warning(f"Registration failed for {username}: Passwords do not match")
+                    if not is_valid_username(username):
+                        logger.warning(f"Registration failed: Invalid username format - {username}")
+                        st.error("Username must:\n- Be 3-20 characters long\n- Start with a letter\n- Contain only letters, numbers, and underscores\n- Not end with an underscore")
+                    elif not is_valid_password(password):
+                        logger.warning(f"Registration failed: Weak password for {username}")
+                        st.error("Password must:\n- Be at least 8 characters long\n- Include at least one uppercase letter\n- Include at least one lowercase letter\n- Include at least one number\n- Include at least one special character (!@#$%^&*(),.?\":{}|<>)")
+                    elif password != confirm_password:
+                        logger.warning(f"Registration failed: Passwords do not match for {username}")
                         st.error("Passwords don't match")
                     elif not is_valid_email(email):
-                        logger.warning(f"Registration failed for {username}: Invalid email")
+                        logger.warning(f"Registration failed: Invalid email format - {email}")
                         st.error("Please enter a valid email address")
                     elif not phone:
-                        logger.warning(f"Registration failed for {username}: Missing phone number")
+                        logger.warning(f"Registration failed: Missing phone number for {username}")
                         st.error("Phone number is required")
                     elif not is_valid_phone(phone):
-                        logger.warning(f"Registration failed for {username}: Invalid phone number")
-                        st.error("Please enter a valid phone number")
-                    elif len(password) < 6:
-                        logger.warning(f"Registration failed for {username}: Password too short")
-                        st.error("Password must be at least 6 characters long")
+                        logger.warning(f"Registration failed: Invalid phone format - {phone}")
+                        st.error("Please enter a valid phone number (10-15 digits, optional country code)")
                     else:
                         success, message = register_user(username, email, password, phone)
                         if success:

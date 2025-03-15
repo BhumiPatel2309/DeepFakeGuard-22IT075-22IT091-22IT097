@@ -2,6 +2,11 @@ import os
 import sys
 import streamlit as st
 
+st.set_page_config(
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
 # Add the project root directory to Python path
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(current_dir)

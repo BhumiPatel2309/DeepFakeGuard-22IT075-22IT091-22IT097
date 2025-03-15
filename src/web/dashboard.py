@@ -120,13 +120,12 @@ def dashboard():
     }
     </style>
     """, unsafe_allow_html=True)
-    
     # Main layout with better proportions
     st.markdown("<h1 class='main-header'>🔍 Deepfake Detector Dashboard</h1>", unsafe_allow_html=True)
     
     # Use more balanced column proportions
-    col1, col2, col3 = st.columns([1.2, 2.5, 1])
-
+    col1, col2, col3 = st.columns([1, 2.5, 1])
+    
     # LEFT SIDEBAR - Better organized with sections
     with col1:
         # User info section
@@ -181,7 +180,7 @@ def dashboard():
         else:
             frames = None
         st.markdown("</div>", unsafe_allow_html=True)
-    
+
     # MAIN CONTENT - Better spaced tabs and content areas
     with col2:
         # Custom tabs with better styling

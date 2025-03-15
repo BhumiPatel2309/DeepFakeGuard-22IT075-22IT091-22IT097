@@ -24,13 +24,14 @@ def init_db():
         conn = sqlite3.connect(db_path)
         c = conn.cursor()
         
-        # Users table with admin field
+        # Users table with admin field and google_id
         c.execute('''CREATE TABLE IF NOT EXISTS users
                      (id INTEGER PRIMARY KEY AUTOINCREMENT,
                       username TEXT UNIQUE NOT NULL,
                       email TEXT UNIQUE NOT NULL,
                       phone TEXT UNIQUE,
-                      password TEXT NOT NULL,
+                      password TEXT,
+                      google_id TEXT UNIQUE,
                       is_admin BOOLEAN DEFAULT 0,
                       created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)''')
         logger.debug("Users table initialized")
@@ -82,7 +83,7 @@ def get_db_connection():
         logger.error(f"Failed to connect to database: {str(e)}")
         raise
 
-def register_user(username, email, password, phone=None, is_admin=False):
+def register_user(username, email, password, phone=None, is_admin=False, is_google_auth=False):
     logger.info(f"Attempting to register new user: {username}")
     conn = get_db_connection()
     c = conn.cursor()
@@ -102,10 +103,18 @@ def register_user(username, email, password, phone=None, is_admin=False):
                 return False, "Phone number already registered"
         
         # Insert new user
-        c.execute('''INSERT INTO users 
-                     (username, email, phone, password, is_admin)
-                     VALUES (?, ?, ?, ?, ?)''',
-                 (username, email, phone, hash_password(password), is_admin))
+        if is_google_auth:
+            # For Google auth, we don't store a password
+            c.execute('''INSERT INTO users 
+                        (username, email, phone, is_admin, google_id)
+                        VALUES (?, ?, ?, ?, ?)''',
+                    (username, email, phone, is_admin, email))  # Using email as google_id
+        else:
+            # For regular auth, store hashed password
+            c.execute('''INSERT INTO users 
+                        (username, email, phone, password, is_admin)
+                        VALUES (?, ?, ?, ?, ?)''',
+                    (username, email, phone, hash_password(password), is_admin))
         
         conn.commit()
         logger.info(f"User registered successfully: {username}")
@@ -118,27 +127,36 @@ def register_user(username, email, password, phone=None, is_admin=False):
         if conn:
             conn.close()
 
-def login_user(username, password):
+def login_user(username, password, is_google_auth=False):
     logger.info(f"Login attempt for user: {username}")
     conn = get_db_connection()
     c = conn.cursor()
     
     try:
-        # Check credentials and get user info
-        c.execute('''SELECT email, phone, is_admin 
-                     FROM users 
-                     WHERE username = ? AND password = ?''',
-                 (username, hash_password(password)))
+        if is_google_auth:
+            # For Google auth, check by email in google_id
+            c.execute('''SELECT username, email, phone, is_admin 
+                        FROM users 
+                        WHERE google_id = ?''',
+                    (username,))  # username parameter contains email for Google auth
+        else:
+            # For regular auth, check username and password
+            c.execute('''SELECT username, email, phone, is_admin 
+                        FROM users 
+                        WHERE username = ? AND password = ?''',
+                    (username, hash_password(password)))
+        
         result = c.fetchone()
         
         if not result:
             logger.warning(f"Failed login attempt for user: {username}")
             return False, "Invalid credentials", None
         
-        email, phone, is_admin = result
+        username, email, phone, is_admin = result
         logger.info(f"Successful login for user: {username}")
         
         return True, "Login successful", {
+            "username": username,
             "email": email,
             "phone": phone,
             "is_admin": bool(is_admin)
