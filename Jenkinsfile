@@ -4,8 +4,8 @@ pipeline {
     environment {
         DOCKER_IMAGE = 'deepfake-guard'
         DOCKER_TAG = 'latest'
-        PYTHON_PATH = 'C:\Users\DELL\AppData\Local\Programs\Python\Python39\python.exe'  // Adjust this path to match your Python installation
-        PIP_PATH = 'C:\Users\DELL\AppData\Local\Programs\Python\Python39\Scripts\pip.exe'  
+        PYTHON_PATH = 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\python.exe'
+        PIP_PATH = 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\pip.exe'
     }
     
     stages {
