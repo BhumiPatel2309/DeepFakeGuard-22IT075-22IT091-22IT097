@@ -109,8 +109,7 @@ st.markdown("""
 
 def login_page():
     # Handle Google OAuth callback if there are query parameters
-    
-    query_params = st.query_params
+    query_params = st.experimental_get_query_params()
     if query_params:
         success, message = handle_oauth_callback()
         if success:

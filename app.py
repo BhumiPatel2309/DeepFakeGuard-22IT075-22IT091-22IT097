@@ -1,6 +1,8 @@
 import os
 import sys
 import streamlit as st
+import ssl
+
 
 st.set_page_config(
     layout="wide",
@@ -73,4 +75,6 @@ def main():
             register_page()
 
 if __name__ == "__main__":
+    context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
+    context.load_cert_chain("certs/cert.pem", "certs/key.pem")
     main()
