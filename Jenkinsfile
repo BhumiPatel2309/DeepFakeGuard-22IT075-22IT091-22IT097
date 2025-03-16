@@ -23,14 +23,6 @@ pipeline {
             }
         }
         
-        // stage('Run Tests') {
-        //     steps {
-        //         script {
-        //             bat "${env.PYTHON_PATH} -m pytest tests/"
-        //         }
-        //     }
-        // }
-        
         stage('Build Docker Image') {
             steps {
                 script {
@@ -41,10 +33,9 @@ pipeline {
     }
     
     post {
-        always {
-            node('any') {
-                cleanWs()
-            }
+        success{
+            echo 'Pipeline completed successfully!'
+            cleanWs()
         }
         failure {
             echo 'Pipeline failed!'
