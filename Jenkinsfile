@@ -4,6 +4,8 @@ pipeline {
     environment {
         DOCKER_IMAGE = 'deepfake-guard'
         DOCKER_TAG = 'latest'
+        PYTHON_PATH = 'C:\\Python39\\python.exe'  // Adjust this path to match your Python installation
+        PIP_PATH = 'C:\\Python39\\Scripts\\pip.exe'  // Adjust this path to match your pip installation
     }
     
     stages {
@@ -16,8 +18,7 @@ pipeline {
         stage('Install Dependencies') {
             steps {
                 script {
-                    // Use bat for Windows
-                    bat 'pip install -r requirements.txt'
+                    bat "${env.PIP_PATH} install -r requirements.txt"
                 }
             }
         }
@@ -25,7 +26,7 @@ pipeline {
         stage('Run Tests') {
             steps {
                 script {
-                    bat 'python -m pytest tests/'
+                    bat "${env.PYTHON_PATH} -m pytest tests/"
                 }
             }
         }
@@ -33,7 +34,6 @@ pipeline {
         stage('Build Docker Image') {
             steps {
                 script {
-                    // Windows-compatible docker build command
                     bat "docker build -t ${DOCKER_IMAGE}:${DOCKER_TAG} ."
                 }
             }
@@ -42,7 +42,7 @@ pipeline {
     
     post {
         always {
-            node('any') {  // Ensure cleanup runs within a node
+            node('any') {
                 cleanWs()
             }
         }
