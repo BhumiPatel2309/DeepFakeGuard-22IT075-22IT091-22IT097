@@ -398,7 +398,6 @@ def show_backup_management():
                                 st.error(f"❌ Restore failed: {result}")
 
 def show_admin_dashboard():
-    st.title("Admin Dashboard")
     show_backup_management()
 
 if __name__ == "__main__":
