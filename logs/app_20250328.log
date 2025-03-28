@@ -1,0 +1,6 @@
+2025-03-28 20:00:30,288 - deepfake_detection - INFO - [database.py:19] - Initializing database
+2025-03-28 20:00:30,315 - deepfake_detection - INFO - [database.py:60] - Admin user already exists
+2025-03-28 20:00:30,316 - deepfake_detection - INFO - [database.py:63] - Database initialization completed successfully
+2025-03-28 20:00:30,322 - deepfake_detection - INFO - [app.py:52] - Application startup
+2025-03-28 20:00:30,329 - deepfake_detection - INFO - [app.py:61] - Rendering home page
+2025-03-28 20:00:30,330 - deepfake_detection - INFO - [home.py:12] - Rendering home page

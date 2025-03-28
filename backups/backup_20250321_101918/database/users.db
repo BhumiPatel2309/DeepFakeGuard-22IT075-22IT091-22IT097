@@ -1,0 +1,19 @@
+BEGIN TRANSACTION;
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('users',1);
+CREATE TABLE user_activity
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+     username TEXT NOT NULL,
+     file_type TEXT NOT NULL,
+     result TEXT NOT NULL,
+     confidence REAL NOT NULL,
+     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+     FOREIGN KEY (username) REFERENCES users (username));
+CREATE TABLE users
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+     username TEXT UNIQUE NOT NULL,
+     email TEXT UNIQUE NOT NULL,
+     password TEXT NOT NULL,
+     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+INSERT INTO "users" VALUES(1,'Bhumi','pbhumi2004@gmail.com','854c9831bedfe303ebde4bcc35c173faf5e1d29dc0cf810a4c6c7214b8e1e6b4','2025-03-13 06:05:00');
+COMMIT;

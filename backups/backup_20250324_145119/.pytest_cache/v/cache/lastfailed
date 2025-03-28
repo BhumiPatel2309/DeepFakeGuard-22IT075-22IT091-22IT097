@@ -1,0 +1,7 @@
+{
+  "test_app.py::test_app_runs": true,
+  "tests/test_login.py::TestLoginPage::test_login_form_validation": true,
+  "tests/test_login.py::TestLoginPage::test_successful_login": true,
+  "tests/test_login.py::TestLoginPage::test_google_signin_button": true,
+  "tests/test_login.py::TestLoginPage::test_oauth_callback_handling": true
+}
