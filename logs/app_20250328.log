@@ -72,3 +72,33 @@
 2025-03-28 22:56:23,846 - deepfake_detection - INFO - [app.py:52] - Application startup
 2025-03-28 22:56:23,849 - deepfake_detection - INFO - [app.py:61] - Rendering home page
 2025-03-28 22:56:23,851 - deepfake_detection - INFO - [home.py:12] - Rendering home page
+2025-03-28 23:09:10,987 - deepfake_detection - INFO - [database.py:19] - Initializing database
+2025-03-28 23:09:10,991 - deepfake_detection - INFO - [database.py:60] - Admin user already exists
+2025-03-28 23:09:10,993 - deepfake_detection - INFO - [database.py:63] - Database initialization completed successfully
+2025-03-28 23:09:11,003 - deepfake_detection - INFO - [app.py:52] - Application startup
+2025-03-28 23:09:11,008 - deepfake_detection - INFO - [app.py:61] - Rendering home page
+2025-03-28 23:09:11,011 - deepfake_detection - INFO - [home.py:12] - Rendering home page
+2025-03-28 23:10:22,210 - deepfake_detection - INFO - [database.py:19] - Initializing database
+2025-03-28 23:10:22,214 - deepfake_detection - INFO - [database.py:60] - Admin user already exists
+2025-03-28 23:10:22,215 - deepfake_detection - INFO - [database.py:63] - Database initialization completed successfully
+2025-03-28 23:10:22,224 - deepfake_detection - INFO - [app.py:52] - Application startup
+2025-03-28 23:10:22,228 - deepfake_detection - INFO - [app.py:61] - Rendering home page
+2025-03-28 23:10:22,230 - deepfake_detection - INFO - [home.py:12] - Rendering home page
+2025-03-28 23:22:10,711 - deepfake_detection - INFO - [database.py:19] - Initializing database
+2025-03-28 23:22:10,714 - deepfake_detection - INFO - [database.py:60] - Admin user already exists
+2025-03-28 23:22:10,715 - deepfake_detection - INFO - [database.py:63] - Database initialization completed successfully
+2025-03-28 23:22:10,724 - deepfake_detection - INFO - [app.py:52] - Application startup
+2025-03-28 23:22:10,729 - deepfake_detection - INFO - [app.py:61] - Rendering home page
+2025-03-28 23:22:10,731 - deepfake_detection - INFO - [home.py:12] - Rendering home page
+2025-03-28 23:26:16,066 - deepfake_detection - INFO - [database.py:19] - Initializing database
+2025-03-28 23:26:16,068 - deepfake_detection - INFO - [database.py:60] - Admin user already exists
+2025-03-28 23:26:16,069 - deepfake_detection - INFO - [database.py:63] - Database initialization completed successfully
+2025-03-28 23:26:16,076 - deepfake_detection - INFO - [app.py:52] - Application startup
+2025-03-28 23:26:16,079 - deepfake_detection - INFO - [app.py:61] - Rendering home page
+2025-03-28 23:26:16,081 - deepfake_detection - INFO - [home.py:12] - Rendering home page
+2025-03-28 23:33:45,897 - deepfake_detection - INFO - [database.py:19] - Initializing database
+2025-03-28 23:33:45,917 - deepfake_detection - INFO - [database.py:60] - Admin user already exists
+2025-03-28 23:33:45,920 - deepfake_detection - INFO - [database.py:63] - Database initialization completed successfully
+2025-03-28 23:33:45,964 - deepfake_detection - INFO - [app.py:53] - Application startup
+2025-03-28 23:33:45,989 - deepfake_detection - INFO - [app.py:62] - Rendering home page
+2025-03-28 23:33:46,026 - deepfake_detection - INFO - [home.py:12] - Rendering home page

@@ -3,6 +3,7 @@ import sys
 import streamlit as st
 import ssl
 # Add the project root directory to Python path
+port = int(os.environ.get("PORT", 8501))
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(current_dir)
 
