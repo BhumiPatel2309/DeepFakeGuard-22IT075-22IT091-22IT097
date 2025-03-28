@@ -5940,3 +5940,71 @@
 2025-03-28 20:00:30,322 - INFO - Application startup
 2025-03-28 20:00:30,329 - INFO - Rendering home page
 2025-03-28 20:00:30,330 - INFO - Rendering home page
+2025-03-28 20:03:13,755 - INFO - Initializing database
+2025-03-28 20:03:13,756 - INFO - Admin user already exists
+2025-03-28 20:03:13,758 - INFO - Database initialization completed successfully
+2025-03-28 20:03:13,761 - INFO - Application startup
+2025-03-28 20:03:13,763 - INFO - Rendering home page
+2025-03-28 20:03:13,764 - INFO - Rendering home page
+2025-03-28 20:03:13,771 - INFO - User clicked login button, redirecting to login page
+2025-03-28 20:03:14,575 - INFO - Initializing database
+2025-03-28 20:03:14,576 - INFO - Admin user already exists
+2025-03-28 20:03:14,578 - INFO - Database initialization completed successfully
+2025-03-28 20:03:14,581 - INFO - Application startup
+2025-03-28 20:03:14,584 - INFO - Rendering login page
+2025-03-28 20:03:20,616 - INFO - Initializing database
+2025-03-28 20:03:20,616 - INFO - Admin user already exists
+2025-03-28 20:03:20,616 - INFO - Database initialization completed successfully
+2025-03-28 20:03:20,622 - INFO - Application startup
+2025-03-28 20:03:20,629 - INFO - Rendering login page
+2025-03-28 20:03:20,638 - INFO - Login attempt for user: admin
+2025-03-28 20:03:20,645 - INFO - Successful login for user: admin
+2025-03-28 20:03:20,648 - INFO - User admin logged in successfully
+2025-03-28 20:03:21,454 - INFO - Initializing database
+2025-03-28 20:03:21,456 - INFO - Admin user already exists
+2025-03-28 20:03:21,458 - INFO - Database initialization completed successfully
+2025-03-28 20:03:21,461 - INFO - Application startup
+2025-03-28 20:03:21,465 - INFO - User admin accessing dashboard
+2025-03-28 20:03:21,467 - INFO - Loading dashboard for user: admin
+2025-03-28 20:10:05,742 - INFO - Initializing database
+2025-03-28 20:10:05,753 - INFO - Admin user already exists
+2025-03-28 20:10:05,754 - INFO - Database initialization completed successfully
+2025-03-28 20:10:05,759 - INFO - Application startup
+2025-03-28 20:10:05,767 - INFO - Rendering home page
+2025-03-28 20:10:05,769 - INFO - Rendering home page
+2025-03-28 22:30:57,480 - INFO - Initializing database
+2025-03-28 22:30:57,508 - INFO - Admin user already exists
+2025-03-28 22:30:57,510 - INFO - Database initialization completed successfully
+2025-03-28 22:30:57,517 - INFO - Application startup
+2025-03-28 22:30:57,520 - INFO - Rendering home page
+2025-03-28 22:30:57,522 - INFO - Rendering home page
+2025-03-28 22:31:02,038 - INFO - Initializing database
+2025-03-28 22:31:02,048 - INFO - Admin user already exists
+2025-03-28 22:31:02,058 - INFO - Database initialization completed successfully
+2025-03-28 22:31:02,081 - INFO - Application startup
+2025-03-28 22:31:02,125 - INFO - Rendering home page
+2025-03-28 22:31:02,128 - INFO - Rendering home page
+2025-03-28 22:31:02,156 - INFO - User clicked login button, redirecting to login page
+2025-03-28 22:31:03,344 - INFO - Initializing database
+2025-03-28 22:31:03,359 - INFO - Admin user already exists
+2025-03-28 22:31:03,359 - INFO - Database initialization completed successfully
+2025-03-28 22:31:03,385 - INFO - Application startup
+2025-03-28 22:31:03,395 - INFO - Rendering login page
+2025-03-28 22:32:55,648 - INFO - Initializing database
+2025-03-28 22:32:55,652 - INFO - Admin user already exists
+2025-03-28 22:32:55,655 - INFO - Database initialization completed successfully
+2025-03-28 22:32:55,664 - INFO - Application startup
+2025-03-28 22:32:55,673 - INFO - Rendering home page
+2025-03-28 22:32:55,675 - INFO - Rendering home page
+2025-03-28 22:50:53,060 - INFO - Initializing database
+2025-03-28 22:50:53,061 - INFO - Admin user already exists
+2025-03-28 22:50:53,065 - INFO - Database initialization completed successfully
+2025-03-28 22:50:53,070 - INFO - Application startup
+2025-03-28 22:50:53,076 - INFO - Rendering home page
+2025-03-28 22:50:53,077 - INFO - Rendering home page
+2025-03-28 22:56:23,841 - INFO - Initializing database
+2025-03-28 22:56:23,842 - INFO - Admin user already exists
+2025-03-28 22:56:23,843 - INFO - Database initialization completed successfully
+2025-03-28 22:56:23,846 - INFO - Application startup
+2025-03-28 22:56:23,849 - INFO - Rendering home page
+2025-03-28 22:56:23,851 - INFO - Rendering home page

@@ -2,6 +2,8 @@
 runOnSave = true
 enableCORS = true
 enableXsrfProtection = true
+sslCertFile = "certs/cert.pem"
+sslKeyFile = "certs/key.pem"
 
 [browser]
 serverAddress = "localhost"
