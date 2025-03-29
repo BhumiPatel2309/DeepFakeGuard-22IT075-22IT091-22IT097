@@ -6038,3 +6038,67 @@
 2025-03-28 23:33:45,964 - INFO - Application startup
 2025-03-28 23:33:45,989 - INFO - Rendering home page
 2025-03-28 23:33:46,026 - INFO - Rendering home page
+2025-03-29 08:48:17,709 - INFO - Initializing database
+2025-03-29 08:48:17,756 - INFO - Admin user already exists
+2025-03-29 08:48:17,760 - INFO - Database initialization completed successfully
+2025-03-29 08:48:17,774 - INFO - Application startup
+2025-03-29 08:48:17,782 - INFO - Rendering home page
+2025-03-29 08:48:17,786 - INFO - Rendering home page
+2025-03-29 08:49:02,735 - INFO - Initializing database
+2025-03-29 08:49:02,752 - INFO - Admin user already exists
+2025-03-29 08:49:02,756 - INFO - Database initialization completed successfully
+2025-03-29 08:49:02,810 - INFO - Application startup
+2025-03-29 08:49:02,861 - INFO - Rendering home page
+2025-03-29 08:49:02,864 - INFO - Rendering home page
+2025-03-29 08:49:02,878 - INFO - User clicked login button, redirecting to login page
+2025-03-29 08:49:10,446 - INFO - Initializing database
+2025-03-29 08:49:10,449 - INFO - Admin user already exists
+2025-03-29 08:49:10,451 - INFO - Database initialization completed successfully
+2025-03-29 08:49:10,457 - INFO - Application startup
+2025-03-29 08:49:10,461 - INFO - Rendering login page
+2025-03-29 09:18:18,854 - INFO - Initializing database
+2025-03-29 09:18:18,890 - INFO - Admin user already exists
+2025-03-29 09:18:18,892 - INFO - Database initialization completed successfully
+2025-03-29 09:18:18,896 - INFO - Application startup
+2025-03-29 09:18:18,899 - INFO - Rendering home page
+2025-03-29 09:18:18,902 - INFO - Rendering home page
+2025-03-29 09:18:44,484 - INFO - Initializing database
+2025-03-29 09:18:44,486 - INFO - Admin user already exists
+2025-03-29 09:18:44,488 - INFO - Database initialization completed successfully
+2025-03-29 09:18:44,492 - INFO - Application startup
+2025-03-29 09:18:44,499 - INFO - Rendering home page
+2025-03-29 09:18:44,505 - INFO - Rendering home page
+2025-03-29 09:18:44,514 - INFO - User clicked login button, redirecting to login page
+2025-03-29 09:18:45,856 - INFO - Initializing database
+2025-03-29 09:18:45,858 - INFO - Admin user already exists
+2025-03-29 09:18:45,860 - INFO - Database initialization completed successfully
+2025-03-29 09:18:45,866 - INFO - Application startup
+2025-03-29 09:18:45,871 - INFO - Rendering login page
+2025-03-29 09:19:33,198 - INFO - Initializing database
+2025-03-29 09:19:33,200 - INFO - Admin user already exists
+2025-03-29 09:19:33,203 - INFO - Database initialization completed successfully
+2025-03-29 09:19:33,210 - INFO - Application startup
+2025-03-29 09:19:33,218 - INFO - Rendering login page
+2025-03-29 09:19:33,229 - INFO - Login attempt for user: test
+2025-03-29 09:19:33,238 - INFO - Successful login for user: test
+2025-03-29 09:19:33,242 - INFO - User test logged in successfully
+2025-03-29 09:19:33,385 - INFO - Initializing database
+2025-03-29 09:19:33,385 - INFO - Admin user already exists
+2025-03-29 09:19:33,385 - INFO - Database initialization completed successfully
+2025-03-29 09:19:33,385 - INFO - Application startup
+2025-03-29 09:19:33,397 - INFO - User test accessing dashboard
+2025-03-29 09:19:33,399 - INFO - Loading dashboard for user: test
+2025-03-29 09:19:35,351 - INFO - Initializing database
+2025-03-29 09:19:35,351 - INFO - Admin user already exists
+2025-03-29 09:19:35,351 - INFO - Database initialization completed successfully
+2025-03-29 09:19:35,351 - INFO - Application startup
+2025-03-29 09:19:35,363 - INFO - User test accessing dashboard
+2025-03-29 09:19:35,368 - INFO - Loading dashboard for user: test
+2025-03-29 09:19:35,419 - INFO - Retrieving stats for user: test
+2025-03-29 09:19:35,423 - INFO - Retrieving recent activity for user: test
+2025-03-29 09:19:43,640 - INFO - Initializing database
+2025-03-29 09:19:43,645 - INFO - Admin user already exists
+2025-03-29 09:19:43,645 - INFO - Database initialization completed successfully
+2025-03-29 09:19:43,662 - INFO - Application startup
+2025-03-29 09:19:43,677 - INFO - Rendering home page
+2025-03-29 09:19:43,684 - INFO - Rendering home page
