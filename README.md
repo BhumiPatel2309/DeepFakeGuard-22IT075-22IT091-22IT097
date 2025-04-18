@@ -1,6 +1,6 @@
 # 🛡️ DeepfakeGuard
 
-**DeepfakeGuard** is a deep learning-based web app that detects deepfakes in images and videos. It uses advanced CNN architectures like **EfficientNet** and **ResNet** to classify media as **Real** or **Fake** with high accuracy.
+**DeepfakeGuard** is a deep learning-based web app that detects deepfakes in images and videos. It uses advanced CNN architectures like variants of **EfficientNet** to classify media as **Real** or **Fake** with high accuracy.
 
 ## 🚀 Features
 - Detects deepfakes in both images and videos
