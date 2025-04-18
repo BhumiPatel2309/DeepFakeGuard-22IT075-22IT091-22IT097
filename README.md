@@ -1,1 +1,17 @@
-DeepfakeGuard is a deep learning-based web application designed to detect deepfakes in both images and videos. This project uses powerful Convolutional Neural Network (CNN) architectures, particularly EfficientNet variants, to identify manipulated or synthetic media. It aims to provide a reliable solution to combat the growing threat of deepfake content by classifying media as real or fake with high accuracy. The dataset used consists of publicly available deepfake datasets such as FaceForensics++ and the Deepfake Detection Challenge (DFDC) dataset.
+# 🛡️ DeepfakeGuard
+
+**DeepfakeGuard** is a deep learning-based web app that detects deepfakes in images and videos. It uses advanced CNN architectures like **EfficientNet** and **ResNet** to classify media as **Real** or **Fake** with high accuracy.
+
+## 🚀 Features
+- Detects deepfakes in both images and videos
+- EfficientNet models
+- Clean web interface for easy media upload and prediction
+- Shows confidence score for each prediction
+
+## 🧠 Dataset
+- [FaceForensics++](https://github.com/ondyari/FaceForensics)
+- [DFDC Dataset (Kaggle)](https://www.kaggle.com/c/deepfake-detection-challenge)
+
+## 💻 Tech Stack
+- Python, TensorFlow / PyTorch, OpenCV
+- Streamlit
