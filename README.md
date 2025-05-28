@@ -35,7 +35,6 @@ docker-compose up
 1. Clone the repository:
 ```bash
 git clone [repository-url]
-cd DeepFakeGuard
 ```
 
 2. Create a virtual environment:
